@@ -12,7 +12,8 @@
 📋 Estatísticas 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseinaciobelotto&show_icons=true&theme=merko )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseinaciobelotto&hide=javascript,html&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseinaciobelotto&layout=compact&theme=merko)
+
 #
 💻 Tecnologias
 
